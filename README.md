@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ksandaru&show_icons=true&theme=radical)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ksandaru&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ksandaru&show_icons=true&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ksandaru&theme=blue-green)
 
 ### Find me all around the web:
 <p align="left">
