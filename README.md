@@ -5,7 +5,7 @@
 
 ### Find me all around the web:
 <p align="left">
-<a href="www.linkedin.com/in/kanishka-sandaruwan" target="blank"><img align="center" src="social-icons/linkedin.svg" alt="" height="30" color="green"/></a>
+<a href="https://www.linkedin.com/in/kanishka-sandaruwan/" target="blank"><img align="center" src="social-icons/linkedin.svg" alt="" height="30" color="green"/></a>
 <a href="https://www.facebook.com/kanishkasb" target="blank"><img align="center" src="social-icons/facebook.svg" alt="" height="30" color="green"/></a>
 <a href="https://stackoverflow.com/users/15838526/ke-sandaru" target="blank"><img align="center" src="social-icons/stackoverflow.svg" alt="" height="30" color="green"/></a>
   
