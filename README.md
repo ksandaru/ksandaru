@@ -24,7 +24,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,bitbucket,linux,bash" />
     </a>
-    <a href="https://www.bitbucket.com" target="_blank" rel="noreferrer"> <img src="https://logo-download.com/wp-content/data/images/png/Bitbucket-logo.png" alt="bitbucket" width="40" height="40"/> </a> 
+    <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/bitbucket-icon-512x512-exmgeb8n.png" alt="bitbucket" width="40" height="40"/> </a> 
   
 </p>
 <br />
