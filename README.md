@@ -5,7 +5,6 @@
 
 ## 🧰 Languages and Tools:
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,jquery,regex,js,ts,nodejs,express,react,threejs,dart,flutter" />
@@ -13,7 +12,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,mysql,mongodb,postman,stackoverflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,vscode,idea" />
   </a>
 </p>
 <p align="center">
@@ -23,15 +22,9 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bitbucket" />
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,linux,bash" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash" />
-  </a>
-</p>
-
 <br />
 
 ![Kanishka's snake gif](https://github.com/ksandaru/ksandaru/blob/main/snakeeat/github-contribution-grid-snake.svg)
