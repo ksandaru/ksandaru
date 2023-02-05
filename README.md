@@ -24,16 +24,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,bash" />
     </a>
-    <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/bitbucket-icon-512x512-exmgeb8n.png" alt="bitbucket" width="40" height="40"/> </a> 
-  
-   <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.2999439184.4584/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="helm" width="40" height="40"/> </a> 
-  
-  <a href="https://cloud.google.com/kubernetes-engine" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/google-gke-icon-512x457-q6s0e3iu.png" alt="GKE" width="40" height="40"/> </a> 
-  
-   <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/728/1*kjZhVc8uPnFOhkxK1Ic9Gg.jpeg" alt="dockerhub" width="40" height="40"/> </a> 
-   <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> <img src="https://static.wixstatic.com/media/277f7d_baeb89dc948f42778d5699d68aa6aa7f~mv2.png/v1/fit/w_256%2Ch_256%2Cal_c/file.png" alt="nexus" width="40" height="40"/> </a> 
-   <a href="https://xshell.apponic.com/" target="_blank" rel="noreferrer"> <img src="https://www.softgudam.com/wp-content/uploads/2019/07/xshell-free-download.png" alt="xshell" width="40" height="40"/> </a> 
-  
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/bitbucket-icon-512x512-exmgeb8n.png" alt="bitbucket" width="40" height="40"/> </a><a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.2999439184.4584/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="helm" width="40" height="40"/> </a> <a href="https://cloud.google.com/kubernetes-engine" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/google-gke-icon-512x457-q6s0e3iu.png" alt="GKE" width="40" height="40"/> </a> <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/728/1*kjZhVc8uPnFOhkxK1Ic9Gg.jpeg" alt="dockerhub" width="40" height="40"/> </a><a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> <img src="https://static.wixstatic.com/media/277f7d_baeb89dc948f42778d5699d68aa6aa7f~mv2.png/v1/fit/w_256%2Ch_256%2Cal_c/file.png" alt="nexus" width="40" height="40"/> </a><a href="https://xshell.apponic.com/" target="_blank" rel="noreferrer"> <img src="https://www.softgudam.com/wp-content/uploads/2019/07/xshell-free-download.png" alt="xshell" width="40" height="40"/> </a> 
 </p>
 <br />
 
